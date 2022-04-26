@@ -1,1 +1,2 @@
 Name: Automatizová evalvácia zadaní z SQL v mikro-learningovej platforme Priscilla
+Automated SQL Assignments Evalution in Priscilla Micro-learning Platform
